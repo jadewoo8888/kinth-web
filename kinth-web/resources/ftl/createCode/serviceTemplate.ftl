@@ -1,16 +1,16 @@
-package com.fh.service.${packageName}.${objectNameLower}.impl;
+package com.kinth.service.${packageName}.${objectNameLower}.impl;
 
 import java.util.List;
 import javax.annotation.Resource;
 import org.springframework.stereotype.Service;
-import com.fh.dao.DaoSupport;
-import com.fh.entity.Page;
-import com.fh.util.PageData;
-import com.fh.service.${packageName}.${objectNameLower}.${objectName}Manager;
+import com.kinth.dao.DaoSupport;
+import com.kinth.entity.Page;
+import com.kinth.util.PageData;
+import com.kinth.service.${packageName}.${objectNameLower}.${objectName}Manager;
 
 /** 
  * 说明： ${TITLE}
- * 创建人：FH Q313596790
+ * 创建人：
  * 创建时间：${nowDate?string("yyyy-MM-dd")}
  * @version
  */
