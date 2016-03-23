@@ -5,7 +5,7 @@ var fmid = "fhindex";	//菜单点中状态
 var mid = "fhindex";	//菜单点中状态
 var fhsmsCount = 0;		//站内信总数
 var USER_ID;			//用户ID
-var user = "FH";		//用于即时通讯（ 当前登录用户）
+var user = "admin";		//用于即时通讯（ 当前登录用户）
 var TFHsmsSound = '1';	//站内信提示音效
 var websocket;			//websocket对象
 var wimadress="";		//即时聊天服务器IP和端口
