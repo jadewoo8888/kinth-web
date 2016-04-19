@@ -99,7 +99,7 @@
 				
 				var loginname = $("#loginname").val();
 				var password = $("#password").val();
-				var code = "qq313596790fh"+loginname+",fh,"+password+"QQ978336446fh"+",fh,"+$("#code").val();
+				var code = "qq313388925wu"+loginname+",wu,"+password+"QQ313388925wu"+",wu,"+$("#code").val();
 				$.ajax({
 					type: "POST",
 					url: 'login_login',

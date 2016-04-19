@@ -165,10 +165,10 @@ public class SimpleMailSender extends BaseController {
 	     mailInfo.setMailServerHost("smtp.qq.com");    
 	     mailInfo.setMailServerPort("25");    
 	     mailInfo.setValidate(true);    
-	     mailInfo.setUserName("itfather@1b23.com");    
-	     mailInfo.setPassword("tttt");//您的邮箱密码    
-	     mailInfo.setFromAddress("itfather@1b23.com");    
-	     mailInfo.setToAddress("313596790@qq.com");    
+	     mailInfo.setUserName("wuhrgd@163.com");    
+	     mailInfo.setPassword("$118jade");//您的邮箱密码    
+	     mailInfo.setFromAddress("wuhrgd@163.com");    
+	     mailInfo.setToAddress("313388925@qq.com");    
 	     mailInfo.setSubject("设置邮箱标题");    
 	     mailInfo.setContent("设置邮箱内容");    
 	     //这个类主要来发送邮件   

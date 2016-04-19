@@ -72,7 +72,7 @@ function toUserMsg(toU){
 					websocket.onopen = function() {
 						//连接成功
 						win.setTitle(title + '&nbsp;&nbsp;(已连接)   【现在全局对话】');
-						websocket.send('FHadminqq313596790'+user);
+						websocket.send('WUadminqq313388925'+user);
 					}
 					websocket.onerror = function() {
 						//连接失败
@@ -165,14 +165,14 @@ function toUserMsg(toU){
 			win.show();
 			
 			win.on("close",function(){
-				websocket.send('LeaveFHadminqq313596790');
+				websocket.send('LeaveWUadminqq313388925');
 				isCreatw = false;
 			 });
 
 			//发送消息
 			function send() {
 				var content = input.getValue();
-				if(toUser != ""){content = "fhadmin886"+toUser+"fhfhadmin888" + content;}
+				if(toUser != ""){content = "wuadmin886"+toUser+"wuwuadmin888" + content;}
 				var message = {};
 				if (websocket != null) {
 					if (input.getValue()) {

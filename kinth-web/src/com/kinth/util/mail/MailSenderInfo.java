@@ -1,9 +1,7 @@
 package com.kinth.util.mail;   
 /**
  * 发送邮件需要使用的基本信息 
-* @author FH QQ 313596790[青苔]
-* 修改时间：2015年7月27日
-* @version 2.0
+* @author wu
  */
 import java.util.Properties;    
 public class MailSenderInfo {    

@@ -1,5 +1,4 @@
 /**
- * @FH QQ:313596790
  */	
 	//生成
 	function save(){
@@ -77,7 +76,7 @@
 		}
 		var strArField = '';
 		for(var i=0;i<arField.length;i++){
-			strArField = strArField + arField[i] + "Q313596790";
+			strArField = strArField + arField[i] + "Q313388925";
 		}
 		$("#FIELDLIST").val(strArField); 	//属性集合
 		$("#Form").submit();				//提交
