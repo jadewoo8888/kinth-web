@@ -24,8 +24,8 @@ public class Constants {
 	}
 
 	public static void main(String[] args) {
-		Constants.setPICTURE_SAVE_FILE_PATH("D:/Tomcat 6.0/webapps/FH/topic/");
-		Constants.setPICTURE_VISIT_FILE_PATH("http://192.168.1.225:8888/FH/topic/");
+		Constants.setPICTURE_SAVE_FILE_PATH("D:/Tomcat 6.0/webapps/WU/topic/");
+		Constants.setPICTURE_VISIT_FILE_PATH("http://192.168.1.225:8888/WU/topic/");
 	}
 	
 }

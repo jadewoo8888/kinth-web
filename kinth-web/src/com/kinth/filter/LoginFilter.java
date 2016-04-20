@@ -23,7 +23,7 @@ public class LoginFilter extends BaseController implements Filter {
 	 * 初始化
 	 */
 	public void init(FilterConfig fc) throws ServletException {
-		//FileUtil.createDir("d:/FH/topic/");
+		//FileUtil.createDir("d:/WU/topic/");
 	}
 	
 	public void destroy() {

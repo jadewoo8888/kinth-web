@@ -55,7 +55,7 @@ public class DateUtil {
 	* @param e
 	* @return boolean  
 	* @throws
-	* @author fh
+	* @author WU
 	 */
 	public static boolean compareDate(String s, String e) {
 		if(fomatDate(s)==null||fomatDate(e)==null){
