@@ -14,7 +14,6 @@ import com.kinth.util.UuidUtil;
 
 /**
  * @author wuzhuyang
- * 修改时间：2015、12、11
  */
 public class BaseController {
 	
